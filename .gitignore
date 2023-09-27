@@ -1,2 +1,3 @@
-./dist
-./py_apollo_cli.egg-info
+dist/
+py_apollo_cli.egg-info/
+**/pycache/
